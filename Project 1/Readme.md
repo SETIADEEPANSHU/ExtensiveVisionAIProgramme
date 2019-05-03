@@ -1,3 +1,6 @@
+### Assignment 1A
+https://colab.research.google.com/github/SETIADEEPANSHU/ExtensiveVisionAIProgramme/blob/master/EVA_S1.ipynb
+
 ### Assignment 1B
 
 Q1. What are Channels and Kernels (according to EVA)?
